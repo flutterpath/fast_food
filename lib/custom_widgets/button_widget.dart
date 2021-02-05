@@ -14,7 +14,7 @@ class MyButton extends StatelessWidget {
       height: 50,
       minWidth: double.infinity,
       color: MyColors.yellowButtonFFD24E,
-      child: Text(text, style: TextStyle(fontSize: FontSizes.textSize16, color: MyColors.white),),
+      child: Text(text, style: TextStyle(fontSize: FontSizes.textSize15, color: MyColors.textDark252C34),),
       shape: RoundedRectangleBorder(borderRadius: new BorderRadius.circular(5.0)),
       onPressed: myPress,
     );

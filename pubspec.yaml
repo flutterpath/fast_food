@@ -10,12 +10,17 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+
   flutter:
     sdk: flutter
 
   cupertino_icons: ^1.0.0
+  flutter_typeahead: ^2.0.0
+  flutter_screenutil: ^4.0.3
+  logger: ^0.9.4
   dots_indicator: ^1.2.0
   smooth_page_indicator: ^0.2.0
+  pin_code_fields: ^6.1.0
 
 dev_dependencies:
   flutter_test:
@@ -27,8 +32,7 @@ flutter:
 
   assets:
     - assets/images/
-    - assets/icons/
-    - assets/others/
+    - assets/icon/
 
 
   # fonts:

@@ -12,6 +12,7 @@ class MyColors {
   static const Color backGroundWhite = const Color(0xFFFAFAFA);
   static const Color yellowMainFFD250 = const Color(0xFFFFD250);
   static const Color yellowButtonFFD24E = const Color(0xFFFFD24E);
+  static const Color yelloappbarFFF5B0 = const Color(0xffFFF5B0);
 
   //Text color
   static const Color textDark252C34 = const Color(0xFF252C34);
